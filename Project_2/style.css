@@ -1,0 +1,44 @@
+body {
+    min-width: 320px;
+    font-size: 14px;
+    font-family: Roboto, sans-serif;
+}
+header {
+    color: #FFFFFF;
+}
+.portfolio {
+    padding-left: 30px;
+    padding-top: 50px;
+    padding-bottom: 40px;
+    background:  #E9ECEF;
+}
+.text-port {
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 200;
+}
+.grid-posts {
+    padding-top: 40px;
+    margin-left: 50px;
+}
+.blue {
+    color:#007BFF;
+}
+.my_table {
+    max-width: 1500px;
+    overflow-x: auto;
+}
+.card {
+    margin-right: 15px;
+    margin-top: 15px;
+}
+.footer-left a {
+    color:#6C757D;
+    padding-left: 2rem;
+}
+footer {
+    background: #F5F5F5;
+    padding: 15px 15px;
+    margin-top: 50px;
+}
+
